@@ -7,7 +7,9 @@ mpl.get_configdir()
 
 2. Copy the stylelib file to that directory.
 
-3. To use it, do:
+3. Refresh the concole.
+
+4. To use the style, do:
 
 ```python3
 import matplotlib.pyplot as plt
